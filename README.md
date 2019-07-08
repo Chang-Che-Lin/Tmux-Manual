@@ -1,4 +1,4 @@
-# Tmux Manual
+# Tmux-Manual
 
 ## Add/delete a new session
 
